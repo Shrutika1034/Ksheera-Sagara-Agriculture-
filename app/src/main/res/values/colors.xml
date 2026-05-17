@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Primary -->
+    <color name="purple_500">#6C63FF</color>
+    <color name="purple_700">#5A52E0</color>
+
+    <!-- Background -->
+    <color name="background">#F5F5F5</color>
+
+    <!-- Card -->
+    <color name="card_white">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#777777</color>
+
+    <!-- Status -->
+    <color name="profit_green">#2E7D32</color>
+    <color name="loss_red">#D32F2F</color>
+
+    <!-- Default -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

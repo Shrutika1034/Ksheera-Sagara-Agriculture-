@@ -1,0 +1,91 @@
+<resources>
+    <!--  App Name  -->
+    <string name="app_name">Ksheera-Sagara</string>
+    <string name="app_full_name">Ksheera-Sagara: Dairy Profit/Loss Calculator</string>
+    <!--  General Strings  -->
+    <string name="dashboard">Dashboard</string>
+    <string name="income_log">Income Log</string>
+    <string name="expense_log">Expense Log</string>
+    <string name="analytics">Analytics</string>
+    <string name="monthly_summary">Monthly Summary</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <!--  Dashboard Strings  -->
+    <string name="financial_health">Financial Health</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="monthly_expenses">Monthly Expenses</string>
+    <string name="monthly_profit">Monthly Profit</string>
+    <string name="profit_margin">Profit Margin</string>
+    <string name="days_tracked">Days Tracked</string>
+    <string name="profitable">PROFITABLE</string>
+    <string name="loss">LOSS</string>
+    <string name="breakeven">BREAK-EVEN</string>
+    <!--  Income Log Strings  -->
+    <string name="add_income">Add Income</string>
+    <string name="edit_income">Edit Income</string>
+    <string name="delete_income">Delete Income</string>
+    <string name="income_date">Date</string>
+    <string name="milk_liters">Liters</string>
+    <string name="rate_per_liter">Rate per Liter</string>
+    <string name="total_payment">Total Payment</string>
+    <string name="notes">Notes</string>
+    <!--  Expense Log Strings  -->
+    <string name="add_expense">Add Expense</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="delete_expense">Delete Expense</string>
+    <string name="expense_category">Category</string>
+    <string name="expense_amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="feed">Feed</string>
+    <string name="medicine">Medicine</string>
+    <string name="labor">Labor</string>
+    <string name="other">Other</string>
+    <!--  Cow Management Strings  -->
+    <string name="cows">Cows</string>
+    <string name="add_cow">Add Cow</string>
+    <string name="cow_name">Cow Name</string>
+    <string name="cow_breed">Breed</string>
+    <string name="cow_age">Age</string>
+    <string name="purchase_cost">Purchase Cost</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <!--  Analytics Strings  -->
+    <string name="expense_breakdown">Expense Breakdown</string>
+    <string name="cow_profitability">Cow Profitability</string>
+    <string name="monthly_trend">Monthly Trend</string>
+    <!--  Dialog Strings  -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="delete_confirmation">Are you sure you want to delete this entry?</string>
+    <!--  PDF/Report Strings  -->
+    <string name="generate_report">Generate Report</string>
+    <string name="export_pdf">Export as PDF</string>
+    <string name="share_report">Share Report</string>
+    <string name="report_generated">Report Generated Successfully</string>
+    <!--  Error Messages  -->
+    <string name="error_invalid_input">Please enter valid input</string>
+    <string name="error_amount_required">Amount is required</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_database">Database error occurred</string>
+    <!--  GenAI Strings  -->
+    <string name="genai_api_key">GenAI API Key</string>
+    <string name="enter_api_key">Enter your GenAI API Key</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="cost_optimization_tips">Cost Optimization Tips</string>
+    <!--  Success Messages  -->
+    <string name="success_saved">Saved Successfully</string>
+    <string name="success_deleted">Deleted Successfully</string>
+    <string name="success_updated">Updated Successfully</string>
+    <!--  Recommendations  -->
+    <string name="rec_feed_cost">Feed costs are high. Consider home-grown fodder.</string>
+    <string name="rec_monitor_health">Maintain preventive care to reduce medicine costs.</string>
+    <string name="rec_track_cows">Track individual cow profitability monthly.</string>
+    <string name="rec_daily_records">Update records daily for accuracy.</string>
+
+    <string name="dashboard_screen">Dashboard Screen</string>
+    <string name="income_screen">Income Log Screen</string>
+    <string name="expense_screen">Expense Log Screen</string>
+</resources>
